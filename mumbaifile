@@ -5,3 +5,13 @@ public static void main (String []args)
 Syste.out.println("wlcome to java");
 }
 }type hello world program
+class substract
+{
+public static void main(String[]args)
+{
+int a=15;
+int b=10;
+int c=a-b;
+System.out.println(c);
+}
+}
